@@ -7,5 +7,5 @@
 
 /**
  * Company implementation 
- * 20192377
+ * Miguel Anicama Torres (20192377)
  */ 
